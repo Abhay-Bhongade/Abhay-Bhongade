@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Abhay-Bhongade
 - 🌱 I’m currently learning Advance Next js
-- I am currently Working on Full Stack Development
-- All my Projects Available at 
+- ✨ I am currently Working on Full Stack Development
+- ✨ All my Projects Available at 
 - 📫 How to reach me ...
 
 <!---
